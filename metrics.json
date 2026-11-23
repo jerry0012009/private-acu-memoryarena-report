@@ -1,0 +1,127 @@
+{
+  "original": {
+    "A": {
+      "task_passed": 397,
+      "task_score_pct": 95.6626506,
+      "preferences_violated": 280,
+      "violation_pct": 67.46987952,
+      "preferences_passed": 27,
+      "preferences_not_applicable": 108,
+      "preferences_unknown": 0,
+      "violation_applicable_pct": 91.20521173,
+      "sps_pct": 99.31102694,
+      "all_pass_groups": 47,
+      "sr_pct": 78.33333333
+    },
+    "B": {
+      "task_passed": 123,
+      "task_score_pct": 29.63855422,
+      "preferences_violated": 340,
+      "violation_pct": 81.92771084,
+      "preferences_passed": 9,
+      "preferences_not_applicable": 66,
+      "preferences_unknown": 0,
+      "violation_applicable_pct": 97.42120344,
+      "sps_pct": 59.89958214,
+      "all_pass_groups": 8,
+      "sr_pct": 13.33333333
+    }
+  },
+  "rerun": {
+    "A": {
+      "task_passed": 349,
+      "task_score_pct": 92.5729443,
+      "preferences_violated": 329,
+      "violation_pct": 87.26790451,
+      "preferences_passed": 6,
+      "preferences_not_applicable": 42,
+      "preferences_unknown": 0,
+      "violation_applicable_pct": 98.20895522,
+      "sps_pct": 98.4585087,
+      "all_pass_groups": 42,
+      "sr_pct": 77.77777778,
+      "solver_receipt_count": 1009,
+      "solver_usage_missing": 0,
+      "solver_reported_tokens": 23166987,
+      "judge_receipt_count": 377,
+      "judge_usage_missing": 0,
+      "judge_reported_tokens": 5092380,
+      "elapsed_seconds": 20198.659
+    },
+    "B": {
+      "task_passed": 337,
+      "task_score_pct": 89.38992042,
+      "preferences_violated": 333,
+      "violation_pct": 88.32891247,
+      "preferences_passed": 10,
+      "preferences_not_applicable": 34,
+      "preferences_unknown": 0,
+      "violation_applicable_pct": 97.0845481,
+      "sps_pct": 97.68757349,
+      "all_pass_groups": 38,
+      "sr_pct": 70.37037037,
+      "solver_receipt_count": 944,
+      "solver_usage_missing": 0,
+      "solver_reported_tokens": 20228955,
+      "judge_receipt_count": 377,
+      "judge_usage_missing": 0,
+      "judge_reported_tokens": 5066093,
+      "elapsed_seconds": 19839.792
+    }
+  },
+  "original_matched_subset": {
+    "A": {
+      "task_passed": 360,
+      "task_score_pct": 95.49071618,
+      "preferences_violated": 257,
+      "violation_pct": 68.16976127,
+      "preferences_passed": 24,
+      "preferences_not_applicable": 96,
+      "preferences_unknown": 0,
+      "violation_applicable_pct": 91.45907473,
+      "sps_pct": 99.28077067,
+      "all_pass_groups": 42,
+      "sr_pct": 77.77777778
+    },
+    "B": {
+      "task_passed": 105,
+      "task_score_pct": 27.85145889,
+      "preferences_violated": 316,
+      "violation_pct": 83.81962865,
+      "preferences_passed": 7,
+      "preferences_not_applicable": 54,
+      "preferences_unknown": 0,
+      "violation_applicable_pct": 97.83281734,
+      "sps_pct": 57.01733536,
+      "all_pass_groups": 6,
+      "sr_pct": 11.11111111
+    }
+  },
+  "not_rerun": [
+    [
+      "59",
+      7
+    ],
+    [
+      "60",
+      7
+    ],
+    [
+      "58",
+      5
+    ],
+    [
+      "21",
+      6
+    ],
+    [
+      "156",
+      8
+    ],
+    [
+      "205",
+      5
+    ]
+  ],
+  "rerun_elapsed_seconds": 20198.667
+}
